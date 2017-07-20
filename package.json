@@ -1,0 +1,25 @@
+{
+  "name": "redux-functional-reducer",
+  "version": "1.0.0",
+  "description": "Utility function to express redux reducers differently",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SleepyFanjo/redux-functional-reducer.git"
+  },
+  "keywords": [
+    "redux",
+    "function",
+    "functional",
+    "reducer"
+  ],
+  "author": "Quentin Chevrin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SleepyFanjo/redux-functional-reducer/issues"
+  },
+  "homepage": "https://github.com/SleepyFanjo/redux-functional-reducer#readme"
+}
