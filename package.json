@@ -1,6 +1,6 @@
 {
   "name": "redux-functional-reducer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility function to express redux reducers differently",
   "main": "index.js",
   "scripts": {
