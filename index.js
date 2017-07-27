@@ -1,4 +1,4 @@
-export default function createReducer (initialState, handlers) {
+function createReducer (initialState, handlers) {
   return function (state, action) {
     if (state === undefined) {
       state = initialState
@@ -16,4 +16,6 @@ export default function createReducer (initialState, handlers) {
     return state
   }
 }
+
+module.exports = createReducer
 
